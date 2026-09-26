@@ -1,9 +1,8 @@
-/* height defaults to "auto" so no need to explicitly set it */
-.avatar.proportioned {
-  width: 300px;
+/* Add CSS Styling */
+.avatar.proportioned{
+    width: 300px;
 }
-
-.avatar.distorted {
-  height: 400px;
-  width: 200px;
+.avatar.distored{
+    width: 200px;
+    height: 400px;
 }
