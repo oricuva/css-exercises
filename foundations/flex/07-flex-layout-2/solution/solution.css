@@ -54,13 +54,17 @@ body {
 }
 
 ul {
+  display: flex;
   list-style-type: none;
   margin: 0;
   padding: 0;
+    gap:16px;
+    font-size: 32px;
 }
 
 li {
   margin-bottom: 16px;
+
 }
 
 a {
